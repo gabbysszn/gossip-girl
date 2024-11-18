@@ -1,0 +1,1 @@
+console.log("Gossip Girl website loaded!");
